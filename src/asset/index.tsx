@@ -1,0 +1,9 @@
+export { default as Control } from "./control.png";
+export { default as User } from "./User.png";
+export { default as Logo } from "./logo.png";
+export { default as Chart_fill } from "./Chart_fill.png";
+export { default as Search } from "./Search.png";
+export { default as Keyboard } from "./keyboard-white.png";
+export { default as List } from "./list.png";
+export { default as Logout } from "./logout.png";
+export { default as Update } from "./update.png";
